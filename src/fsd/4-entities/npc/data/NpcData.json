@@ -637,7 +637,7 @@
       "meleeType": "Power",
       "health": 60.4,
       "damage": 16.35,
-      "armor": 20.8,
+      "armor": 20.08,
       "traits": ["Mechanical, Mechanic"],
       "activeAbilities": [],
       "passiveAbilities": [
