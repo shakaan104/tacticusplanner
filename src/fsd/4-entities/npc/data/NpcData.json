@@ -640,10 +640,7 @@
       "armor": 20.08,
       "traits": ["Mechanical, Mechanic"],
       "activeAbilities": [],
-      "passiveAbilities": [
-        "Vengeance for the Omnissiah",
-        "Omnissiah's Blessing"
-      ]
+      "passiveAbilities": ["Vengeance for the Omnissiah", "Omnissiah's Blessing"]
     }
   ]
 }
